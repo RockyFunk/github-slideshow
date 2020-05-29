@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: **slide**
+title: "Welcome to our changed slide!"
 ---
 Your text
-Use the left arrow to go back!
+Use nothing!
